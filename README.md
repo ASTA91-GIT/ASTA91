@@ -23,7 +23,7 @@
 <a href="https://instagram.com/ram_k_72" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+<a href="http://www.linkedin.com/in/ram-khandekar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
