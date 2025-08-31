@@ -56,14 +56,10 @@
 
 ---
 
-### 🐸 Pepe Vibes (Dank Memer Edition)
-<p align="center">
-  <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="130" alt="Pepe Laugh">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="130" alt="Pepe Sad">
-  <img src="https://media.giphy.com/media/rvDT2lrj4x1F41h2Pu/giphy.gif" width="130" alt="Pepe Hacker">
-  <img src="https://media.giphy.com/media/3o7btQ4Lr5v6oG9Qys/giphy.gif" width="130" alt="Pepe Party">
-</p>
+<!-- Snake Game Repo View -->
 
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ⭐ From [ASTA91](https://github.com/astagit-91)
