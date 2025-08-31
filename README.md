@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/ASTA91-GIT">
-    <img src="https://user-images.githubusercontent.com/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fyang-saya-simpan--752593787735412025%2F&psig=AOvVaw1YYSegVZMVYhnfp6P9e_a2&ust=1756736721513000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC-nrSgtY8DFQAAAAAdAAAAABAE.png" alt="RAM KHANDEKAR" />
+    <img src="![07a3b592ab0b733e6eb87e0767b1feeb](https://github.com/user-attachments/assets/9ff18161-99f0-421c-b12e-d401bce42cb4)
+" alt="RAM KHANDEKAR" />
   </a>
 </p>
 
@@ -68,3 +69,5 @@
 
 ---
 ⭐ From [ASTA91](https://github.com/astagit-91)
+![07a3b592ab0b733e6eb87e0767b1feeb](https://github.com/user-attachments/assets/71e6b5aa-ab15-4559-b561-fe15df1117fb)
+
