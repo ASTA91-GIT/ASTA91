@@ -42,8 +42,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astagit-91&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astagit-91&theme=radical" alt="GitHub Streak"/>
+  <!-- Main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=astagit-91&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astagit-91&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Streak (use Demolab instead of the old heroku URL) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=astagit-91&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
