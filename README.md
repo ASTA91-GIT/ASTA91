@@ -23,8 +23,8 @@
 <a href="https://instagram.com/ram_k_72" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/c/asta plays" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
+<a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
@@ -48,12 +48,12 @@
 
 ---
 
-### 🎉 Stickers & Vibes
+### 🐸 Pepe Vibes (Dank Memer Edition)
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="120" alt="Coding">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="120" alt="Sparkles">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120" alt="Coffee">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Celebration">
+  <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="130" alt="Pepe Laugh">
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="130" alt="Pepe Sad">
+  <img src="https://media.giphy.com/media/rvDT2lrj4x1F41h2Pu/giphy.gif" width="130" alt="Pepe Hacker">
+  <img src="https://media.giphy.com/media/3o7btQ4Lr5v6oG9Qys/giphy.gif" width="130" alt="Pepe Party">
 </p>
 
 ---
