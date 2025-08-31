@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ASTA91-GIT">
-    <img src="https://user-images.githubusercontent.com/20955511/199103806-0a7b7b75-a824-4f00-8037-39e19c5d1b2d.png" alt="RAM KHANDEKAR" />
+    <img src="https://user-images.githubusercontent.com/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fyang-saya-simpan--752593787735412025%2F&psig=AOvVaw1YYSegVZMVYhnfp6P9e_a2&ust=1756736721513000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC-nrSgtY8DFQAAAAAdAAAAABAE.png" alt="RAM KHANDEKAR" />
   </a>
 </p>
 
