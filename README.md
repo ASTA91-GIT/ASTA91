@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ASTA91-GIT">
-    <img src="https://user-images.githubusercontent.com/20955511/199103806-0a7b7b75-a824-4f00-8037-39e19c5d1b2d.png" alt="Jonah Lawrence" />
+    <img src="https://user-images.githubusercontent.com/20955511/199103806-0a7b7b75-a824-4f00-8037-39e19c5d1b2d.png" alt="RAM KHANDEKAR" />
   </a>
 </p>
 
