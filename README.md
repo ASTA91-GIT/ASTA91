@@ -4,9 +4,17 @@
 <h3 align="center">🚀 Beginner Software Developer | India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://komarev.com/ghpvc/?username=astagit-91&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/ASTA91-GIT">
+    <img src="https://user-images.githubusercontent.com/20955511/199103806-0a7b7b75-a824-4f00-8037-39e19c5d1b2d.png" alt="Jonah Lawrence" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ASTA91-GIT/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+and+App+Developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ---
 
