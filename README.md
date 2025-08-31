@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/ASTA91-GIT/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+and+App+Developer;Experienced+UI%2FUX+Designer;10%2B+years+of+coding+experience;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="<img width="220" height="165" alt="image" src="https://github.com/user-attachments/assets/1f42f5ab-19f5-4b5f-a17f-363b214af594" />
+
   </a>
 </p>
 
