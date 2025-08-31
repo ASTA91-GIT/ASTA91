@@ -55,10 +55,8 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api?username= ASTA91-GIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+**### GitHub Streak**
+(https://github-readme-streak-stats-ashy-two.vercel.app?user=ASTA-91%2FGIT&theme=earth&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![](https://nirzak-streak-stats.vercel.app/?user= ASTA91-GIT&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= ASTA91-GIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+---
 ⭐ From [ASTA91](https://github.com/astagit-91)
