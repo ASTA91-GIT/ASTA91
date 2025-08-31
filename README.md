@@ -66,6 +66,12 @@
     alt ="Github stats"
     style="border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.3);"/>
 </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASTA91-GIT&layout=donut&theme=dark" />
+  </a>
+</p>
+
 
 ---
 
