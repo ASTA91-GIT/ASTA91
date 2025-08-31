@@ -62,7 +62,9 @@
        alt="GitHub Streak" 
        style="border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.3);" />
 <p align ="center">
-  (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  <img src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
+    alt ="Github stats"
+    style="border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.3);"/>
 </p>
 
 ---
