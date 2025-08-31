@@ -4,19 +4,11 @@
 <h3 align="center">🚀 Beginner Software Developer | India</h3>
 
 <p align="center">
-  <a href="https://github.com/ASTA91-GIT">
-    <img src="![07a3b592ab0b733e6eb87e0767b1feeb](https://github.com/user-attachments/assets/9ff18161-99f0-421c-b12e-d401bce42cb4)
-" alt="RAM KHANDEKAR" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/1f42f5ab-19f5-4b5f-a17f-363b214af594" 
+       alt="Typing Animation" 
+       width="280" 
+       style="border-radius:15px; box-shadow:0 3px 8px rgba(0,0,0,0.2);" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ASTA91-GIT/readme-typing-svg">
-    <img src="<img width="220" height="165" alt="image" src="https://github.com/user-attachments/assets/1f42f5ab-19f5-4b5f-a17f-363b214af594" />
-
-  </a>
-</p>
-
 
 ---
 
@@ -53,22 +45,26 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
 ---
 
-<!-- Snake Game Repo View -->
-
+### 🐍 Snake Game Contribution Graph
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" 
+       alt="Snake animation" 
+       style="max-width: 100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
 </div>
 
 ---
 
-**### GitHub Streak**
-(https://github-readme-streak-stats-ashy-two.vercel.app?user=ASTA-91%2FGIT&theme=earth&border_radius=25&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASTA91-GIT&theme=earth&border_radius=15" 
+       alt="GitHub Streak" 
+       style="border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.3);" />
+</p>
 
 ---
-⭐ From [ASTA91](https://github.com/astagit-91)
-![07a3b592ab0b733e6eb87e0767b1feeb](https://github.com/user-attachments/assets/71e6b5aa-ab15-4559-b561-fe15df1117fb)
+
+⭐ From [ASTA91](https://github.com/ASTA91-GIT)  
+
 
