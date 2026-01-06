@@ -58,7 +58,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASTA91-GIT&theme=earth&border_radius=15" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASTA91-GIT&theme=dark&border_radius=15" 
        alt="GitHub Streak" 
        style="border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.3);" />
 </p>
